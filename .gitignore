@@ -1,0 +1,14 @@
+# Build output
+risk
+risk.exe
+*.o
+*.out
+
+# Saved games
+*.bin
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
