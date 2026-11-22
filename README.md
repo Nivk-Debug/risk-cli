@@ -80,3 +80,7 @@ Territories are identified by their official code `continent.index` (for example
 ```
 
 An extended format with cards is also supported (see `ayuda inicializar` in the program).
+
+## Team
+
+Developed by **Nicholas Ruiz** and **Andres Felipe Alquerque Cadena** as a university course project.
